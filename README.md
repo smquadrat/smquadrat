@@ -9,4 +9,4 @@ I enjoy building tools that generate insights from raw data using Python librari
 * 🤝  I'm open to collaborating on interesting market-related conundrums
 * ⚡  Fun fact: I worked in Japanese equity markets in Tokyo for 4 years
 
-<p align="left"> <a href="https://www.github.com/smquadrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /></a> <a href="https://www.linkedin.com/in/sebastianquadrat/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/sebastianquadrat/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a></p>
