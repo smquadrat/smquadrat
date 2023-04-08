@@ -8,5 +8,3 @@ As a data-driven product manager and hobbyist developer I specialize in building
 * ✉️  You can contact me at [smquadrat@gmail.com](mailto:smquadrat@gmail.com)
 * 🤝  I'm open to collaborating on interesting market-related conundrums
 * ⚡  Fun fact: I worked in Japanese equity markets for 4 years in Tokyo
-
-<p align="left"> <a href="https://www.linkedin.com/in/sebastianquadrat/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a></p>
