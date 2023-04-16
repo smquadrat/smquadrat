@@ -3,5 +3,5 @@ As a data-driven product manager and hobbyist developer I specialize in building
 * 🌍  I'm based in San Francisco
 * 🖥️  See my portfolio at [my website](http://www.sebastianquadrat.com/projects)
 * ✉️  You can contact me at [smquadrat@gmail.com](mailto:smquadrat@gmail.com)
-* 🤝  I'm open to collaborating on interesting market-related conundrums
+* 🤝  I'm open to collaborating on interesting data-related conundrums
 * ⚡  Fun fact: I worked in Japanese equity markets for 4 years in Tokyo
